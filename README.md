@@ -1,4 +1,4 @@
-# 🚀 Engenharia de Software - Universidade X
+# 🚀 Engenharia de Software - Unilasalle-RJ
 
 Este repositório contém o material e os projetos desenvolvidos para a disciplina de Engenharia de Software da Universidade Unilasalle-RJ. O curso aborda os princípios, práticas e técnicas essenciais para o desenvolvimento de software de alta qualidade.
 
